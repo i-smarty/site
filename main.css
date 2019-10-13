@@ -1,5 +1,32 @@
 body {
-    margin: 0%;
+    margin-left: 10%;
+    margin-top: 0%;
+    margin-right: 2%;
+    background-color: #22272D;
+}
+
+.text {
+	font-size: 180%;
+	font-family: Arial;
+	color: #444444;
+}
+
+.heading {
+	font-size: 210%;
+	font-family: Arial;
+	color: #333333;
+}
+
+.heading1 {
+	font-size: 170%;
+	font-family: Arial;
+	color: #EEE;
+}
+
+.text1 {
+	font-size: 150%;
+	font-family: Arial;
+	color: #8995b1;
 }
 
 .container {
@@ -10,8 +37,34 @@ body {
 }
 
 #header {
-    padding-left: 10%;
+    padding-left: 4%;
     background-color: #22272D;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+#description {
+	float: left;
+	padding-left: 4%;
+	background-color: #F0F0F0;
+	width: 32%;
+	height: 248px;
+	padding-top: 76px;
+	padding-bottom: 57px;
+	padding-right: 8%;
+}
+
+#lines {
+	height: 382px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+}
+
+#game {
+	float: left;
+	padding-left: 2%;
+	background-color: #182033;
+	padding-top: 1%;
+	padding-bottom: 1%;
 }
